@@ -25,3 +25,4 @@ replay_pid*
 
 # NetBeans project files
 build/
+out/
